@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-robolox/static/css/main.5535e067.chunk.css",
+    "main.js": "/monster-robolox/static/js/main.6ced0abd.chunk.js",
+    "main.js.map": "/monster-robolox/static/js/main.6ced0abd.chunk.js.map",
+    "runtime-main.js": "/monster-robolox/static/js/runtime-main.4e971109.js",
+    "runtime-main.js.map": "/monster-robolox/static/js/runtime-main.4e971109.js.map",
+    "static/js/2.58b6412e.chunk.js": "/monster-robolox/static/js/2.58b6412e.chunk.js",
+    "static/js/2.58b6412e.chunk.js.map": "/monster-robolox/static/js/2.58b6412e.chunk.js.map",
+    "index.html": "/monster-robolox/index.html",
+    "precache-manifest.c2e2685c730d4f29c6fd3cd6464bc2e0.js": "/monster-robolox/precache-manifest.c2e2685c730d4f29c6fd3cd6464bc2e0.js",
+    "service-worker.js": "/monster-robolox/service-worker.js",
+    "static/css/main.5535e067.chunk.css.map": "/monster-robolox/static/css/main.5535e067.chunk.css.map",
+    "static/js/2.58b6412e.chunk.js.LICENSE.txt": "/monster-robolox/static/js/2.58b6412e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e971109.js",
+    "static/js/2.58b6412e.chunk.js",
+    "static/css/main.5535e067.chunk.css",
+    "static/js/main.6ced0abd.chunk.js"
+  ]
+}
